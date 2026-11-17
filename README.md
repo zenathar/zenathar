@@ -14,4 +14,4 @@ What I do all day:
 
 AWS Solutions Architect Professional, Security and Advanced Networking Specialty, CKA.
 
-The forks you see here are tools I actually use.
+The forks in my repositories are tools I actually use.
